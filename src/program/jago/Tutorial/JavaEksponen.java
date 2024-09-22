@@ -1,4 +1,4 @@
-package Tutorial;
+package program.jago.Tutorial;
 
 import java.util.Scanner;
 
